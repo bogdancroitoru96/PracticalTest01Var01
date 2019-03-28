@@ -54,8 +54,7 @@
             android:id="@+id/textField"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:editable="false"
-            android:text="TextView" />
+            android:editable="false" />
 
         <Button
             android:id="@+id/navigateButton"
